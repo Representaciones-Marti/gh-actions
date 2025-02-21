@@ -21,7 +21,7 @@ inputs:
     description: 'Folders with secrets in vault'
     required: true
     default: c6a3b6d2-1a39-45c7-b28c-d859efbec3eb
-
+    
 runs:
   using: "composite"
   steps:
